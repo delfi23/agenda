@@ -1,5 +1,5 @@
 # Agenda Electronica
-Ejercicio dado en el curso del Polotic.
+Ejercicio dado en el curso del [PoloTIC Misiones](https://polotic.misiones.gob.ar/quienes-somos/).
 Fue realizado en NetBeans.
 
 ### Contenido
