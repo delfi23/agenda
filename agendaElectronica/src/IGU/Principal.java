@@ -248,6 +248,8 @@ public class Principal extends javax.swing.JFrame {
         // TODO add your handling code here:
     }//GEN-LAST:event_TelefonoActionPerformed
 
+    //-----------------------------------------------------------
+    //-----------------------------------------------------------
     //Crear variables universales para obtener los datos
     int ind = 0;    // para el indice
     String dni_evento[] = new String[10];
