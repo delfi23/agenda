@@ -1,10 +1,10 @@
 
 // Este paquete corresponde a la lógica
-package troncoso_delfina_tpo1;
+package agendaElectronica;
 
 import IGU.Principal;
 
-public class Troncoso_delfina_tpo1 {
+public class agendaElectronica {
 
     public static void main(String[] args) {
         
